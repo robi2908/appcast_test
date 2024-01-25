@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>TITOLO CHANNEL</title>
+        <item>
+            <title>TITOLO ITEM</title>
+            <description>DESCRIZIONE</description>
+            <pubDate>DATA AGGIORNAMENTO</pubDate>
+            <sparkle:version>0.1.5</sparkle:version>
+            <sparkle:minimumSystemVersion>0.1.4</sparkle:minimumSystemVersion>
+            <!-- <enclosure sparkle:os="ios" /> -->
+            <enclosure sparkle:os="android" />
+       </item>
+    </channel>
+</rss>

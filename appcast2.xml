@@ -9,7 +9,7 @@
             <sparkle:version>0.1.5</sparkle:version>
             <sparkle:minimumSystemVersion>0.1.4</sparkle:minimumSystemVersion>
             <!-- <enclosure sparkle:os="ios" /> -->
-            <enclosure sparkle:os="android" />
+            <!-- <enclosure sparkle:os="android" /> -->
        </item>
     </channel>
 </rss>
